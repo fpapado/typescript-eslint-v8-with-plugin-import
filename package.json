@@ -1,0 +1,22 @@
+{
+  "name": "typescript-eslint-v8-with-plugin-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "8.0.0-alpha.25",
+    "@typescript-eslint/parser": "8.0.0-alpha.25",
+    "eslint": "^8",
+    "eslint-plugin-import": "^2.29.1",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "styled-components": "^6.1.11"
+  }
+}
